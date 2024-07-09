@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamental",
+            "slug": "guitar-fundamental",
+            "description": "Learn the basics of playing the guitar, including chords, strumming, and fingerpicking techniques.",
+            "price": 99.99,
+            "instructor": "Nelson Mandela",
+            "inFeatured": true,
+            "image": "/course/guitar.png"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "An introductory course to playing the piano, covering basic music theory and simple songs.",
+            "price": 89.99,
+            "instructor": "Ludwig van Beethoven",
+            "inFeatured": false,
+            "image": "/course/piano.png"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Violin Techniques",
+            "slug": "advanced-violin-techniques",
+            "description": "A comprehensive guide to mastering advanced violin techniques for intermediate players.",
+            "price": 129.99,
+            "instructor": "Itzhak Perlman",
+            "inFeatured": true,
+            "image": "/course/violin.png"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Essentials",
+            "slug": "drumming-essentials",
+            "description": "Learn the fundamental skills of drumming, including rhythm patterns and drum kit setup.",
+            "price": 79.99,
+            "instructor": "Ringo Starr",
+            "inFeatured": false,
+            "image": "/course/drums.png"
+        },
+        {
+            "id": 5,
+            "title": "Singing Masterclass",
+            "slug": "singing-masterclass",
+            "description": "Improve your vocal range, tone, and performance techniques with this singing masterclass.",
+            "price": 149.99,
+            "instructor": "Freddie Mercury",
+            "inFeatured": true,
+            "image": "/course/singing.png"
+        },
+        {
+            "id": 6,
+            "title": "Music Production Basics",
+            "slug": "music-production-basics",
+            "description": "An introductory course to music production, including mixing, mastering, and using DAWs.",
+            "price": 109.99,
+            "instructor": "Quincy Jones",
+            "inFeatured": false,
+            "image": "/course/production.png"
+        },
+        {
+            "id": 7,
+            "title": "Bass Guitar Techniques",
+            "slug": "bass-guitar-techniques",
+            "description": "Learn the essential techniques for playing bass guitar, including slap bass and fingerstyle.",
+            "price": 94.99,
+            "instructor": "Jaco Pastorius",
+            "inFeatured": true,
+            "image": "/course/bass.png"
+        },
+        {
+            "id": 8,
+            "title": "Electronic Music Creation",
+            "slug": "electronic-music-creation",
+            "description": "Discover how to create electronic music, including beat-making and synthesizer use.",
+            "price": 119.99,
+            "instructor": "Deadmau5",
+            "inFeatured": false,
+            "image": "/course/electronic.png"
+        },
+        {
+            "id": 9,
+            "title": "Classical Music Theory",
+            "slug": "classical-music-theory",
+            "description": "Understand the foundations of classical music theory, including harmony, melody, and form.",
+            "price": 89.99,
+            "instructor": "Johann Sebastian Bach",
+            "inFeatured": true,
+            "image": "/course/classical.png"
+        },
+        {
+            "id": 10,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description": "Master the art of jazz improvisation, including scales, chords, and performance tips.",
+            "price": 129.99,
+            "instructor": "Miles Davis",
+            "inFeatured": false,
+            "image": "/course/jazz.png"
+        },
+        {
+            "id": 11,
+            "title": "Songwriting Techniques",
+            "slug": "songwriting-techniques",
+            "description": "Learn the craft of songwriting, including lyric writing, melody creation, and song structure.",
+            "price": 99.99,
+            "instructor": "Paul McCartney",
+            "inFeatured": true,
+            "image": "/course/songwriting.png"
+        },
+        {
+            "id": 12,
+            "title": "Orchestral Conducting",
+            "slug": "orchestral-conducting",
+            "description": "An in-depth course on conducting orchestras, including techniques and score reading.",
+            "price": 149.99,
+            "instructor": "Leonard Bernstein",
+            "inFeatured": false,
+            "image": "/course/conducting.png"
+        },
+        {
+            "id": 13,
+            "title": "Ukulele for Beginners",
+            "slug": "ukulele-for-beginners",
+            "description": "A beginner's guide to playing the ukulele, covering basic chords, strumming, and songs.",
+            "price": 59.99,
+            "instructor": "Israel Kamakawiwoʻole",
+            "inFeatured": true,
+            "image": "/course/ukulele.png"
+        },
+        {
+            "id": 14,
+            "title": "Blues Guitar Techniques",
+            "slug": "blues-guitar-techniques",
+            "description": "Learn the essential techniques of blues guitar, including scales, licks, and improvisation.",
+            "price": 104.99,
+            "instructor": "B.B. King",
+            "inFeatured": false,
+            "image": "/course/blues.png"
+        },
+        {
+            "id": 15,
+            "title": "Flute Fundamentals",
+            "slug": "flute-fundamentals",
+            "description": "An introductory course to playing the flute, covering basic techniques and simple pieces.",
+            "price": 89.99,
+            "instructor": "Jean-Pierre Rampal",
+            "inFeatured": true,
+            "image": "/course/flute.png"
+        }
+    ]
+}
