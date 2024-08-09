@@ -1,1 +1,1 @@
-import {resend} from resend
+import * as React from 'react';
