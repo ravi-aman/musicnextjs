@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.14",
     "mongoose": "^8.5.0",
